@@ -73,6 +73,8 @@ Home page currently displays some lorem ipsum text.
         </section>
     </main>
 ```
+### Services
+Services page displays list of services we provide.
 
 ## Styling
 

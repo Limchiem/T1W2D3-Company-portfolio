@@ -76,6 +76,9 @@ Home page currently displays some lorem ipsum text.
 ### Services
 Services page displays list of services we provide.
 
+### Contact
+Contact page used to contact us
+
 ## Styling
 
 ## Components
